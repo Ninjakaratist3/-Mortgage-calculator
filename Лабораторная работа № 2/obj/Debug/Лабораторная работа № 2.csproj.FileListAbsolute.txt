@@ -1,0 +1,10 @@
+C:\Users\tomas_000\Desktop\Лабораторная работа № 2\Лабораторная работа № 2\bin\Debug\Лабораторная работа № 2.exe.config
+C:\Users\tomas_000\Desktop\Лабораторная работа № 2\Лабораторная работа № 2\bin\Debug\Лабораторная работа № 2.exe
+C:\Users\tomas_000\Desktop\Лабораторная работа № 2\Лабораторная работа № 2\bin\Debug\Лабораторная работа № 2.pdb
+C:\Users\tomas_000\Desktop\Лабораторная работа № 2\Лабораторная работа № 2\obj\Debug\Лабораторная работа № 2.csprojAssemblyReference.cache
+C:\Users\tomas_000\Desktop\Лабораторная работа № 2\Лабораторная работа № 2\obj\Debug\Лабораторная_работа___2.Form1.resources
+C:\Users\tomas_000\Desktop\Лабораторная работа № 2\Лабораторная работа № 2\obj\Debug\Лабораторная_работа___2.Form2.resources
+C:\Users\tomas_000\Desktop\Лабораторная работа № 2\Лабораторная работа № 2\obj\Debug\Лабораторная_работа___2.Properties.Resources.resources
+C:\Users\tomas_000\Desktop\Лабораторная работа № 2\Лабораторная работа № 2\obj\Debug\Лабораторная работа № 2.csproj.GenerateResource.cache
+C:\Users\tomas_000\Desktop\Лабораторная работа № 2\Лабораторная работа № 2\obj\Debug\Лабораторная работа № 2.exe
+C:\Users\tomas_000\Desktop\Лабораторная работа № 2\Лабораторная работа № 2\obj\Debug\Лабораторная работа № 2.pdb
